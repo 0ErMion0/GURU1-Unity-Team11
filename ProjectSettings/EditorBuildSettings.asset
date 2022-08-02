@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/Loading.unity
+    guid: 53b01259f8c37d644ba0e87467f55a6f
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/HomeScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/StoryMode.unity
+    guid: 9c836c364ebd70f49bae03d595ea2b7a
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/InfiniteMode.unity
+    guid: dbef45e03002d2d449e5ca8f15bbfdac
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/GameExplanation.unity
+    guid: 17ebab8784e2279489088a28439b6d5e
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/Option.unity
+    guid: 8b34ba4b2c9dad44b9970842d7918395
+  - enabled: 1
+    path: Assets/Scenes/Stage1/S1M1AlarmOffMission.unity
+    guid: 56f39ff919c1ef9469d202d8dcc07efb
+  - enabled: 1
+    path: Assets/Scenes/Stage1/S1M2FindMission.unity
+    guid: 19ee75747ff2a6e458a43cd5401be1d2
+  - enabled: 1
+    path: Assets/Scenes/Endling/ClearEnding.unity
+    guid: eeef84614afeba14baeb9177a07c8758
+  - enabled: 1
+    path: Assets/Scenes/Endling/FailEnding1.unity
+    guid: e1e857c3382544140aa28994ab55f638
+  - enabled: 1
+    path: Assets/Scenes/Endling/FailEnding2.unity
+    guid: d798d807c0397a942ba3411c5fa2ffc7
+  - enabled: 1
+    path: Assets/Scenes/Endling/FailEnding3.unity
+    guid: 0c071fe66c6adc54090cd23b2e602326
+  - enabled: 1
+    path: Assets/Scenes/Endling/FailEnding4.unity
+    guid: 4fd99d2c073d94947a3fe8bcc75e8df0
+  - enabled: 1
+    path: Assets/Scenes/Endling/FailEnding5.unity
+    guid: ce2098a089c8a374a8f260db8962d97f
+  - enabled: 1
+    path: Assets/Scenes/Endling/FailEnding6.unity
+    guid: e190267405861844e8950c8a659648d0
+  - enabled: 1
+    path: Assets/Scenes/Endling/GameOver.unity
+    guid: ae9d49d21c95c044699bf0f8f81bd659
+  - enabled: 1
+    path: Assets/Scenes/Endling/GameClear.unity
+    guid: 0eb1607a891449945a7ab9b63e8b8311
+  - enabled: 1
+    path: Assets/Scenes/Endling/InfiniteModeGameOver.unity
+    guid: a145d55122b4c024a9c0257e3a0b99aa
+  - enabled: 1
+    path: Assets/Scenes/Stage2/S2M1GetBusMission.unity
+    guid: 77cb2ce7be8872f4781ea8a88904f9c1
+  - enabled: 1
+    path: Assets/Scenes/Stage2/S2BeforeRun.unity
+    guid: 38aab3dd51407bd42a4f83a1c50094f2
+  - enabled: 1
+    path: Assets/Scenes/Stage2/S2Run.unity
+    guid: b7e7ce0c3b041614c94361f380ff2237
+  - enabled: 1
+    path: Assets/Scenes/Stage2/S2M2Fix.unity
+    guid: 13988c327c6e1fd418f350aa13ef45d9
+  - enabled: 1
+    path: Assets/Scenes/Stage3/S3PacMan.unity
+    guid: e61805095258a0b45a716462176eed5e
+  - enabled: 1
+    path: Assets/Scenes/Stage1/StageOne.unity
+    guid: 540e9f214247a7446ba2f89b26f1c245
+  - enabled: 1
+    path: Assets/Scenes/Stage2/StageTwo.unity
+    guid: 99e25d9ddeae94c4e9c73f706b939ebd
+  - enabled: 1
+    path: Assets/Scenes/Stage3/StageThree.unity
+    guid: fbdfc669467da9e4491570164acc396c
+  m_configObjects: {}
